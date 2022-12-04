@@ -1,11 +1,11 @@
 {
 	
-	"image": "Menu_BF",
+	"image": "MENU-CGSP",
 	"position": [
-		15,
-		-40
+		-400,
+		100
 	],
-	"scale": 1,
-	"idle_anim": "M BF Idle",
-	"confirm_anim": "M bf HEY"
+	"scale": 0.80,
+	"idle_anim": "menu-cassette bopping",
+	"confirm_anim": "menu-cassette freeplay"
 }
