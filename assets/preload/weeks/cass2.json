@@ -1,0 +1,40 @@
+{
+	"storyName": "VS Cassetegirl",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Soda Groove",
+			"cg",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"City funk",
+			"cgalt",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"difficulties": "Hard",
+	"weekName": "week Asss"
+}

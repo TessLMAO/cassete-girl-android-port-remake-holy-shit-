@@ -1,0 +1,44 @@
+{
+	"storyName": "Vs Cassette Girl",
+	"hideFreeplay": false,
+	"weekBackground": "cass",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bf",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"ukiyo",
+			"cg",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"earworm",
+			"cg",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"machina",
+			"cg",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"difficulties": "Hard",
+	"weekName": "Week Ass"
+}
