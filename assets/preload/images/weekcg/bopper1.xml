@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bopper1.png">
+	
+	
+	<SubTexture name="crowd10000" x="2" y="2" width="701" height="276" frameX="0" frameY="-4" frameWidth="705" frameHeight="280" />
+	<SubTexture name="crowd10001" x="2" y="2" width="701" height="276" frameX="0" frameY="-4" frameWidth="705" frameHeight="280" />
+	<SubTexture name="crowd10002" x="2" y="278" width="701" height="280" frameX="-4" frameY="0" frameWidth="705" frameHeight="280" />
+	<SubTexture name="crowd10003" x="2" y="278" width="701" height="280" frameX="-4" frameY="0" frameWidth="705" frameHeight="280" />
+	<SubTexture name="crowd10004" x="2" y="558" width="702" height="279" frameX="-2" frameY="-1" frameWidth="705" frameHeight="280" />
+	<SubTexture name="crowd10005" x="2" y="558" width="702" height="279" frameX="-2" frameY="-1" frameWidth="705" frameHeight="280" />
+	<SubTexture name="crowd10006" x="2" y="558" width="702" height="279" frameX="-2" frameY="-1" frameWidth="705" frameHeight="280" />
+	<SubTexture name="crowd10007" x="2" y="558" width="702" height="279" frameX="-2" frameY="-1" frameWidth="705" frameHeight="280" />
+	<SubTexture name="crowd10008" x="2" y="558" width="702" height="279" frameX="-2" frameY="-1" frameWidth="705" frameHeight="280" />
+	<SubTexture name="crowd10009" x="2" y="558" width="702" height="279" frameX="-2" frameY="-1" frameWidth="705" frameHeight="280" />
+	<SubTexture name="crowd10010" x="2" y="558" width="702" height="279" frameX="-2" frameY="-1" frameWidth="705" frameHeight="280" />
+	<SubTexture name="crowd10011" x="2" y="558" width="702" height="279" frameX="-2" frameY="-1" frameWidth="705" frameHeight="280" />
+	<SubTexture name="crowd10012" x="2" y="558" width="702" height="279" frameX="-2" frameY="-1" frameWidth="705" frameHeight="280" />
+	<SubTexture name="crowd10013" x="2" y="558" width="702" height="279" frameX="-2" frameY="-1" frameWidth="705" frameHeight="280" />
+</TextureAtlas>

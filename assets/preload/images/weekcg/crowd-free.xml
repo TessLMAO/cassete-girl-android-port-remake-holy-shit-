@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="crowd-free.png">
+	
+	
+	<SubTexture name="crowd-van0000" x="0" y="0" width="603" height="263" frameX="0" frameY="-3" frameWidth="603" frameHeight="266" />
+	<SubTexture name="crowd-van0001" x="0" y="0" width="603" height="263" frameX="0" frameY="-3" frameWidth="603" frameHeight="266" />
+	<SubTexture name="crowd-van0002" x="0" y="263" width="600" height="266" frameX="-3" frameY="-1" frameWidth="603" frameHeight="266" />
+	<SubTexture name="crowd-van0003" x="0" y="263" width="600" height="266" frameX="-3" frameY="-1" frameWidth="603" frameHeight="266" />
+	<SubTexture name="crowd-van0004" x="0" y="529" width="600" height="266" frameX="-3" frameY="0" frameWidth="603" frameHeight="266" />
+	<SubTexture name="crowd-van0005" x="0" y="529" width="600" height="266" frameX="-3" frameY="0" frameWidth="603" frameHeight="266" />
+	<SubTexture name="crowd-van0006" x="0" y="529" width="600" height="266" frameX="-3" frameY="0" frameWidth="603" frameHeight="266" />
+	<SubTexture name="crowd-van0007" x="0" y="529" width="600" height="266" frameX="-3" frameY="0" frameWidth="603" frameHeight="266" />
+	<SubTexture name="crowd-van0008" x="0" y="529" width="600" height="266" frameX="-3" frameY="0" frameWidth="603" frameHeight="266" />
+	<SubTexture name="crowd-van0009" x="0" y="529" width="600" height="266" frameX="-3" frameY="0" frameWidth="603" frameHeight="266" />
+</TextureAtlas>

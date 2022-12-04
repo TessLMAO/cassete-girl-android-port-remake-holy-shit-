@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CGBG.png">
+	
+	
+	<SubTexture name="new0000" x="0" y="0" width="1370" height="948" />
+</TextureAtlas>
